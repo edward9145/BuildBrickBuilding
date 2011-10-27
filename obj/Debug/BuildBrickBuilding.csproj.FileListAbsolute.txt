@@ -1,0 +1,11 @@
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\bin\Debug\BuildBrickBuilding.exe.config
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\bin\Debug\BuildBrickBuilding.exe
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\bin\Debug\BuildBrickBuilding.pdb
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\obj\Debug\ResolveAssemblyReference.cache
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\obj\Debug\BuildBrickBuilding.exe
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\obj\Debug\BuildBrickBuilding.pdb
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\obj\Debug\GenerateResource.read.1.tlog
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\obj\Debug\GenerateResource.write.1.tlog
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\obj\Debug\BuildBrickBuilding.MainForm.resources
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\bin\Debug\Coding4Fun.Kinect.WinForm.dll
+H:\Programme\C#\Kinect\Project\BuildBrickBuilding\bin\Debug\Kinect.Toolbox.dll
